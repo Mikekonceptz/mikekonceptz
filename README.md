@@ -7,6 +7,8 @@ I'm Michael from Nigeria, and I do Design and development. I really enjoy learni
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on My own company 
+- 🌱 I’m currently learning Python language 
+- 📫 How to reach me: info@mikekonceptz.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mikekonceptz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Chinweuba Michael Tochi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tochi Michael Khings)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/MikeKonceptz/)  
